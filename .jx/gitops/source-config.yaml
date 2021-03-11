@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: jenkins-quickstart
+    - name: jenkins-quickstart2
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
